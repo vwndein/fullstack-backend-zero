@@ -1,0 +1,28 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Learn Backend Zero With Vanden",
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "homepage": "https://github.com/vwndein/fullstack-backend-zero#readme",
+  "bugs": {
+    "url": "https://github.com/vwndein/fullstack-backend-zero/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwndein/fullstack-backend-zero.git"
+  },
+  "license": "ISC",
+  "author": "vanden",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
